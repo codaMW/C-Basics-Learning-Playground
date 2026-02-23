@@ -15,9 +15,9 @@ This project provides structured practice in core C++ concepts including:
 
 - Accumulators and state management
 
-##Rather than teaching theory in isolation, this repository emphasizes real-world simulations and problem-solving, helping learners understand how foundational programming concepts translate into practical systems.
+## Rather than teaching theory in isolation, this repository emphasizes real-world simulations and problem-solving, helping learners understand how foundational programming concepts translate into practical systems.
 
-###Each exercise is:
+### Each exercise is:
 
 - Interactive (requires user input)
 
